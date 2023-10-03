@@ -1,2 +1,2 @@
 # CardGame
-Card GAme using C++ by Dimosthenis PLavos.
+Card Game using C++ by Dimosthenis PLavos.
